@@ -1,0 +1,22 @@
+{
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@vitejs/plugin-react": "latest",
+        "axios": "latest",
+        "firebase": "latest",
+        "lucide-react": "latest",
+        "react-icons": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-router-dom": "latest"
+    },
+    "devDependencies": {
+        "vite": "latest",
+        "tailwindcss": "latest",
+        "@tailwindcss/vite": "latest"
+    }
+}
