@@ -81,7 +81,15 @@ export default function Home() {
               upgrade my skills and to begin my developer jouney!
               <br></br>
               <br></br>
-              Lookout my projects at .
+              Lookout my projects at     
+              <a
+                  href="https://nova-verse-app.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="ml-2 hover:underline"
+                >
+                 NovaVerse App
+                </a> .
             </p>
 
             <a
