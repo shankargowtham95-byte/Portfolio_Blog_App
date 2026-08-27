@@ -86,7 +86,7 @@ export default function Home() {
                   href="https://nova-verse-app.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ml-2 hover:underline"
+                  className="ml-2 font-bold text-blue-600 hover:text-blue-800 hover:underline transition-colors"
                 >
                  NovaVerse App
                 </a> .
